@@ -1,4 +1,4 @@
-# Client-server_application-
+# Client-Server_application-
 
 Design a Client / Server application  using sockets,which allows the administrator of a manufacturing plant of more relevant information on downtime
 found in a production line of interest
